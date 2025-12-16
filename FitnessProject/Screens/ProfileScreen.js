@@ -1,6 +1,8 @@
 import React from "react";
 import { View, Text, StyleSheet, Image } from "react-native";
 
+
+// This is the main Profile Screen component
 export default function ProfileScreen() {
   return (
     <View style={styles.container}>
